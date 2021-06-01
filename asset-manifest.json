@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e7e2b87.chunk.css",
-    "main.js": "/static/js/main.d83c3401.chunk.js",
-    "main.js.map": "/static/js/main.d83c3401.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fb9c9b2e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fb9c9b2e.js.map",
-    "static/css/2.f0cdb6e8.chunk.css": "/static/css/2.f0cdb6e8.chunk.css",
-    "static/js/2.9befbb76.chunk.js": "/static/js/2.9befbb76.chunk.js",
-    "static/js/2.9befbb76.chunk.js.map": "/static/js/2.9befbb76.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.f0cdb6e8.chunk.css.map": "/static/css/2.f0cdb6e8.chunk.css.map",
-    "static/css/main.8e7e2b87.chunk.css.map": "/static/css/main.8e7e2b87.chunk.css.map",
-    "static/js/2.9befbb76.chunk.js.LICENSE.txt": "/static/js/2.9befbb76.chunk.js.LICENSE.txt",
-    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.dfd0ea12.woff2"
+    "main.css": "/deepvishwas.watchlist.io/static/css/main.8e7e2b87.chunk.css",
+    "main.js": "/deepvishwas.watchlist.io/static/js/main.d83c3401.chunk.js",
+    "main.js.map": "/deepvishwas.watchlist.io/static/js/main.d83c3401.chunk.js.map",
+    "runtime-main.js": "/deepvishwas.watchlist.io/static/js/runtime-main.8b148c4d.js",
+    "runtime-main.js.map": "/deepvishwas.watchlist.io/static/js/runtime-main.8b148c4d.js.map",
+    "static/css/2.afbcc726.chunk.css": "/deepvishwas.watchlist.io/static/css/2.afbcc726.chunk.css",
+    "static/js/2.9befbb76.chunk.js": "/deepvishwas.watchlist.io/static/js/2.9befbb76.chunk.js",
+    "static/js/2.9befbb76.chunk.js.map": "/deepvishwas.watchlist.io/static/js/2.9befbb76.chunk.js.map",
+    "index.html": "/deepvishwas.watchlist.io/index.html",
+    "static/css/2.afbcc726.chunk.css.map": "/deepvishwas.watchlist.io/static/css/2.afbcc726.chunk.css.map",
+    "static/css/main.8e7e2b87.chunk.css.map": "/deepvishwas.watchlist.io/static/css/main.8e7e2b87.chunk.css.map",
+    "static/js/2.9befbb76.chunk.js.LICENSE.txt": "/deepvishwas.watchlist.io/static/js/2.9befbb76.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/deepvishwas.watchlist.io/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb9c9b2e.js",
-    "static/css/2.f0cdb6e8.chunk.css",
+    "static/js/runtime-main.8b148c4d.js",
+    "static/css/2.afbcc726.chunk.css",
     "static/js/2.9befbb76.chunk.js",
     "static/css/main.8e7e2b87.chunk.css",
     "static/js/main.d83c3401.chunk.js"
